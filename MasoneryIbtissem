@@ -1,0 +1,11 @@
+class MasoneryIbtissem extends CWidget
+{
+    public function init()
+    {
+        return parent::init();
+    }
+
+    public function run()
+    {
+    }
+}
