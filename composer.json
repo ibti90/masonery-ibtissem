@@ -1,0 +1,14 @@
+{
+    "name": "masonery-ibtissem",
+    "authors": [
+        {
+            "name": "BERKANE Ibtissem"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "masonery-ibtissem": "src/"
+        }
+    }
+}
